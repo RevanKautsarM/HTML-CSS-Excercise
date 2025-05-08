@@ -1,0 +1,23 @@
+body {
+  font-family: 'Monstserrat' sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #fff;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 48px;
+  margin: 0;
+}
+
+p {
+  margin: 10px 0 0;
+}

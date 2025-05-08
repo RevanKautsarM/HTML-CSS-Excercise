@@ -1,0 +1,91 @@
+.box {
+  display: block;
+  margin-bottom: 3px;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  display: inline-block;
+  vertical-align: middle;
+  width: 220px;
+}
+
+.img {
+  align-items: center;
+  width: 300px;
+}
+
+.inp {
+  width: 450px;
+  height: 25px;
+  border: none;
+  box-shadow: 0 0 2px black;
+  border-radius: 20px;
+}
+
+.box{
+  display: inline-block;
+  vertical-align: middle;
+  width: 110px;
+  box-shadow: 0 0 3px gray;
+  border: none;
+  border-radius: 5px;
+  height: 25px;
+}
+
+.box2 {
+  height: 25px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 5px;
+  width: 228px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 0 2px gray;
+}
+
+.signup {
+  height: 35px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  width: 233px;
+  background-color: rgb(53, 53, 255);
+  cursor: pointer;
+}
+
+.signup:hover {
+  background-color: rgb(6, 6, 207);
+}
+
+.uber {
+  margin-bottom: 5px;
+  border: none;
+  background-color: rgb(228, 228, 228);
+  border-radius: 3px;
+  width: 300px;
+  height: 30px;
+}
+
+.uberbutton {
+  background-color: black;
+  color: white;
+  border: 1;
+  border-color: gray;
+  border-radius: 1px;
+  width: 115px;
+  height: 33px;
+  margin-right: 10px;
+}
+
+.uberbutton2 {
+  background-color: rgb(228, 228, 228);
+  height: 33px;
+  border-radius: 1px;
+  width: 130px;
+  border: none;
+}
